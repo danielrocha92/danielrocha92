@@ -1,7 +1,26 @@
-### Olá! Sou o Daniel Rocha 👋
+###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Olá, mundo!**    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estudando ReactJs
+<p>
+  <em>
+    Sou estudante do último semestre de <a href="https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas"> <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b>, Universidade Nove de Julho</a>.  
+    Um <b>Dev FrontEnd</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e um <b>Design Entusiasta,</b>   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> que é <b>obcecado</b>
+    com a ideia de <b>melhorar</b> a si mesmo e quer uma <b>plataforma</b> para
+    <b>crescer</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">e
+    <b>se destacar.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
+<br>
+
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> Estou *atualmente*  **dormindo** 😴, *trabalhando* 👨‍💻 ou *jogando* 🎮 no meu **PC**.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Estou *aprendendo* a **Hooks** em ⚛️ **ReactJs.** 💪
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Estou *procurando colaborar* em **projetos** **python**.🐍
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Estou *procurando* *ajuda* com minha **EchoDot.** 🌐
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronomes:** [ *He/ Ele* ](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Curiosidade:** Tentando fazer alguma coisa *funcionar* 💡 a qualquer *custo!* 🔝
+
+
+<br>
 
 <div align="center">
   <a href="https://github.com/danielrocha92">
