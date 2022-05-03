@@ -12,7 +12,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> Estou *atualmente*  **dormindo** 😴, *trabalhando* 👨‍💻 ou *jogando* 🎮 no meu **PC**.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> Estou *atualmente*  **estudando** 😴, *trabalhando* 👨‍💻 ou *jogando* 🎮 no meu **PC**.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Estou *aprendendo* a **Hooks** em ⚛️ **ReactJs.** 💪
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Estou *procurando colaborar* em **projetos** **python**.🐍
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Estou *procurando* *ajuda* com minha **EchoDot.** 🌐
