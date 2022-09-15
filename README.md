@@ -11,9 +11,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> Estou *atualmente*  **estudando** 😴, *trabalhando* 👨‍💻 ou *jogando* 🎮 no meu **PC**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> Estou *aprendendo* a **Hooks** em ⚛️ **ReactJs.** 💪
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> Estou *procurando colaborar* em **projetos** **python**.🐍
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> Estou *procurando* *ajuda* com minha **EchoDot.** 🌐
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> Estou *aprendendo* a **Hooks** em ⚛️ **ReactJs.** 💪,&nbsp;<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" />*pretendo colaborar* em **projetos** **python**&nbsp;🐍 e <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> e *procurando* *ajuda* com minha **EchoDot.** 🌐
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronomes:** [ *He/ Ele* ](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Curiosidade:** Tentando fazer alguma coisa *funcionar* 💡 a qualquer *custo!* 🔝🔝
 <br>
