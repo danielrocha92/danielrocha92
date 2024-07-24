@@ -1,7 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Olá, mundo!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p>
   <em>
-    Sou formado no curso de <a href="https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas"> <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b>, na Universidade Nove de Julho</a>.  
+    Sou formado em <a href="https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas"> <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b>, na Universidade Nove de Julho</a>.  
     Um <b>Dev FullStack focado em FrontEnd</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e um <b>Design Entusiasta, </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> que é <b>obcecado</b> com a ideia de <b>melhorar</b> a si mesmo e quer uma <b>plataforma</b> para
     <b>crescer</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">e
     <b>se destacar.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
