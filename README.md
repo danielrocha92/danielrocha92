@@ -72,3 +72,4 @@ Se você está procurando alguém comprometido, curioso, com atenção aos detal
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/danielrocha92/danielrocha92/output/github-contribution-grid-snake.svg)
+
