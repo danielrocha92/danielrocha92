@@ -30,7 +30,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ### 🧩 Projetos em Destaque
 
-- 🔧 [**Zero20 Garage**](https://github.com/seuprojeto): Site institucional completo para uma mecânica de retífica. Desenvolvido com React, EmailJS, Supabase e backend em Node hospedado no Render.
+- 🔧 [**Zero20 Garage**](https://https://zero20garage.vercel.app/): Site institucional completo para uma mecânica de retífica. Desenvolvido com React, EmailJS, Supabase e backend em Node hospedado no Render.
 - 🎬 [**Cineflix Landing Page**](https://github.com/seuprojeto): Plataforma visual e moderna inspirada em serviços de streaming. Design escuro e responsivo com foco em experiência do usuário.
 - 🐍 [**Automação de Tarefas com Python**](https://github.com/seuprojeto): Scripts para otimização de rotinas administrativas e manipulação de arquivos e APIs.
 
