@@ -1,86 +1,103 @@
-# Daniel Rocha | Engenheiro de Software (FullStack & Front-End Specialist)
+<h1 align="center">💼 Rocha Tech Solutions - Portfólio de Desenvolvimento Full-Stack <img src="https://vercelbadge.vercel.app/api/danielrocha92/rocha-tech-solutions" alt="Vercel Status"></h1>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sobre mim
-
-Engenheiro de Software com sólida experiência em desenvolvimento FullStack e especialização em Front-End, focado na criação de aplicações web de alta performance, escaláveis e com interfaces intuitivas. Minha paixão é traduzir desafios de negócio complexos em soluções tecnológicas eficientes, utilizando principalmente **React, TypeScript e Node.js**.
-
-Busco constantemente otimizar a performance, garantir a acessibilidade e melhorar a experiência do usuário (UX), contribuindo ativamente para o crescimento do produto e do time.
-
-- ⚛️ **Foco Principal:** Arquitetura de componentes reutilizáveis e otimização de performance (Core Web Vitals).
-- ☁️ **Cloud & DevOps:** Experiência com deploy contínuo em plataformas como Vercel e Render. Estudando a fundo Splunk para monitoramento e observabilidade.
-- 🐍 **Automação:** Utilizo Python para criar scripts que otimizam processos, desde a manipulação de dados até a automação de rotinas de CI/CD.
-- 🎨 **Paixão por UX/UI:** Defensor de interfaces limpas, acessíveis e que proporcionem uma experiência de usuário memorável.
-
----
-
-### 🚀 Stack de Tecnologias
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Front-End</strong><br><br>
-      <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-      <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    </td>
-    <td valign="top" width="50%">
-      <strong>Back-End & Ferramentas</strong><br><br>
-      <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      <img alt="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
-      <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧩 Projetos em Destaque
-
-#### 🔧 **Zero20 Garage - Portal Institucional e Sistema de Orçamentos**
-- **Stack:** `React` `Node.js` `Supabase` `EmailJS`
-- Desenvolvi uma plataforma completa que modernizou a presença digital da empresa. A implementação de um sistema de orçamentos online **aumentou a captação de leads qualificados em 30%**.
-- Arquitetura front-end totalmente responsiva, garantindo uma experiência de usuário consistente em desktops e dispositivos móveis.
-- [**Ver Projeto**](https://zero20garage.vercel.app/) | [**Ver Repositório**](https://github.com/danielrocha92/zero20garage) #### 🎬 **Cineflix - Landing Page Interativa**
-- **Stack:** `React` `TypeScript` `Styled-Components`
-- Criei uma landing page visualmente impactante para uma plataforma de streaming, com foco em micro-interações e performance. Otimizei o carregamento de assets, alcançando uma **nota A no GTmetrix**.
-- O projeto demonstra habilidades avançadas em design responsivo e manipulação de estado complexo no front-end.
-- [**Ver Projeto**](https://github.com/seuprojeto) | [**Ver Repositório**](https://github.com/seuprojeto)
-
-#### 🐍 **Task Automator - Scripts de Automação**
-- **Stack:** `Python` `Pandas` `APIs REST`
-- Desenvolvi uma suíte de scripts para automatizar a geração de relatórios e a sincronização de dados entre planilhas e sistemas via API. O resultado foi a **redução de mais de 15 horas mensais** de trabalho manual.
-- [**Ver Repositório**](https://github.com/seuprojeto)
-
----
-
-### 📊 Minhas Contribuições no GitHub
-
-<div align="center">
-  <a href="https://github.com/danielrocha92">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielrocha92&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrocha92&layout=compact&langs_count=7&theme=blue-green"/>
-  </a>
-</div>
-
----
-
-### 📬 Vamos conversar?
-
-Estou sempre aberto a discutir novas oportunidades, projetos desafiadores e colaborações. Se você acredita que meu perfil pode agregar valor ao seu time, vamos nos conectar!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniel-rocha-bb730133/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:danielfrocha86@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge">
 </p>
 
----
+<hr>
 
-![Snake animation](https://github.com/danielrocha92/danielrocha92/blob/main/dist/github-contribution-grid-snake-dark.svg)
+<h2>🚀 Sobre o Portfólio: Visão de Negócio em Código</h2>
+
+<p>Este repositório serve como a principal vitrine da minha experiência como <b>Desenvolvedor Full-Stack (Next.js & Node.js)</b>. Mais do que listar tecnologias, ele apresenta minha capacidade de transformar requisitos de negócio em <b>soluções digitais performáticas e focadas em conversão</b>.</p>
+
+<p>Com uma base sólida em <b>Liderança e Estratégia Comercial</b>, meu trabalho em desenvolvimento web é sempre orientado a resultados. Aqui, você encontrará projetos que demonstram a integração perfeita entre Front-End de alta qualidade (SEO, performance) e Back-End robusto (APIs, gestão de dados).</p>
+
+<hr>
+
+<h2>🛠️ Stack Tecnológico Principal</h2>
+
+<p>Minhas soluções são construídas majoritariamente no <b>JAMstack/MERN</b>, priorizando velocidade, escalabilidade e manutenibilidade:</p>
+
+<h3>Frontend</h3>
+<ul>
+  <li>Framework: <b>Next.js</b> e <b>React</b> (SSR/SSG).</li>
+  <li>Estilização: <b>CSS Dedicado/Puro</b> e Módulos CSS (Garantindo total controle sobre performance e design).</li>
+</ul>
+
+<h3>Backend e Infraestrutura</h3>
+<ul>
+  <li>Runtime: <b>Node.js</b> com <b>Express.js</b> (Para APIs customizadas).</li>
+  <li>Bancos de Dados: Firebase, MongoDB ou PostgreSQL.</li>
+  <li>Deploy: Vercel (Front-End) e Render (APIs).</li>
+</ul>
+
+<hr>
+
+<h2>🏆 Projetos em Destaque (Estudos de Caso)</h2>
+
+<p>Estes projetos demonstram minha capacidade de entregar valor em diferentes nichos de mercado, sempre com foco em objetivos de negócio:</p>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Projeto</th>
+      <th align="left">Foco e Impacto no Negócio</th>
+      <th align="left">Stack Principal</th>
+      <th align="left">Link do Repositório</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Zero20 Garage</b></td>
+      <td>Criação de <b>Portal Institucional com Painel Admin</b> para gestão e exportação de orçamentos (PDF/Excel), transformando o site em uma ferramenta de trabalho.</td>
+      <td>React, Node.js, Express, Firebase</td>
+      <td><a href="https://github.com/danielrocha92/zero20garage">Ver Repositório</a></td>
+    </tr>
+    <tr>
+      <td><b>Mão de Cera Oficial</b></td>
+      <td><b>Captação de Leads</b> e Modernização de Marca. Desenvolvimento de portal Full-Stack otimizado para SEO e alta conversão.</td>
+      <td>Next.js, Node.js, Firebase</td>
+      <td><a href="https://github.com/danielrocha92/mao-de-cera-oficial">Ver Repositório</a></td>
+    </tr>
+    <tr>
+      <td><b>Renata Ribeiro Neuropsico</b></td>
+      <td>Foco em <b>Autoridade Profissional</b>, SEO e Credibilidade. Plataforma otimizada para buscas orgânicas na área da saúde.</td>
+      <td>Next.js, Markdown</td>
+      <td><a href="https://github.com/danielrocha92/renata-ribeiro-neuropsico">Ver Repositório</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>💻 Como Rodar o Portfólio Localmente</h2>
+
+<p>Este portfólio em si é um projeto Next.js, configurado para consumir e linkar os demais projetos. É a melhor forma de ver o código e a aplicação em tempo real.</p>
+
+<h3>Pré-requisitos</h3>
+<ul>
+  <li>Node.js (v18+)</li>
+  <li>npm ou yarn</li>
+</ul>
+
+<h3>Instruções</h3>
+<pre><code>git clone https://github.com/danielrocha92/rocha-tech-solutions.git
+cd rocha-tech-solutions
+npm install
+npm run dev
+</code></pre>
+
+<p>Acesse: <code>http://localhost:3000</code></p>
+
+<hr>
+
+<h2>👨‍💻 Contato e Conexão</h2>
+
+<p>Busco desafios como <b>Desenvolvedor Full-Stack Pleno</b> onde possa aplicar minha combinação única de visão de negócio e domínio técnico.</p>
+
+<ul>
+    <li><strong>🌐 Site:</strong> <a href="https://rocha-tech-solutions.vercel.app/">Link da Aplicação (Versão Pública)</a></li>
+    <li><strong>📫 LinkedIn:</strong> <a href="https://www.linkedin.com/in/danielrocha92">Daniel Rocha</a></li>
+</ul>
